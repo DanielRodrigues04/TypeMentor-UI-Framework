@@ -63,7 +63,7 @@ For detailed documentation on each component, please visit our [documentation si
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request
 
 ## License
 
